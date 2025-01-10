@@ -1,4 +1,4 @@
-# LeeJeonJin-portfolios
+# 이전진-portfolios
 
 # ESG 기반 AI 융합 기획 프로젝트
 
