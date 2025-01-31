@@ -15,9 +15,13 @@
 
 ## ⚫2022 안드로이드 활용
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 ## 🟠IT 세미나?
 이두아노 키트를 활용하여 사업 계획을? 세워보고 실현?가능한지 직접 프로그래밍과 툴을 만들어 오늘의 날씨와 문구가 나오는 LED디스플레이스를 사용
+
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white">
 
 
 ## 🟢2024 ESG 기반 AI 융합 기획 프로젝트
