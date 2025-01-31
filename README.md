@@ -16,9 +16,8 @@
 
 
 1. 역할 PM
-2. 사용한 언어
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+2. 사용한 언어<br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 ## 🟠IT 프로젝트 실무
 이두아노 키트를 활용하여 사업 계획을? 세워보고 실현?가능한지 직접 프로그래밍과 툴을 만들어 오늘의 날씨와 문구가 나오는 LED디스플레이스를 사용
@@ -33,7 +32,7 @@
 
 1. 역할 프로그램어 AI를 사용할 안드로이드앱 개발 
 
-2. 사용한 언어
+2. 사용한 언어<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 
