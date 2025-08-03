@@ -10,19 +10,7 @@
 
 🏆예선 탈락
 
-## ⚫안드로이드 앱 활용
 
-
-### 1. Position/Role PM
-### 2. Used Languages&Tools <br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-
-## 🟠IT 프로젝트 실무
-이두아노 키트를 활용하여 사업 계획을? 세워보고 실현?가능한지 직접 프로그래밍과 툴을 만들어 오늘의 날씨와 문구가 나오는 LED디스플레이스를 사용
-
-### 1. Position/Role 프로그램머
-### 2. Used Languages&Tools <br>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 
 
 
@@ -31,13 +19,13 @@
 
 ### 1. Duration 7/1~ 9/7
 
-### 1. Position/Role 프로그램어 AI를 사용할 안드로이드앱 개발 
+### 1. Position/Role 개발자/ 분리수거를 하기 위한 쓰레기 판별할 수 있는 이미지 모델을 Teachable Machine 활용하여 만듦. 
 
 ### 2. Used Languages&Tools <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
 
-
-
+### 3. Reference
+https://youtu.be/cOQsgtgxMFc?si=jOxecuRgPlyJfAUu
 
 🏆장려상
 
