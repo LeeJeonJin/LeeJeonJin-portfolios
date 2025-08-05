@@ -20,14 +20,13 @@
 
 > ### WiseDragon - AI 기반 분리수거 어플리케이션
 
-- 🏆장려상
-- 
 - Duration 7/1~ 9/7 (해커톤 8/12~8/13)
-- 
-- Position/Role : 개발자/ AI가 분리수거를 하기 위한 쓰레기 판별할 수 있는 이미지 모델을 Teachable Machine 활용하여 만듦.
-- 프로젝트를 위한 데이터 수집 및 준비 학습된 모델을 안드로이드 스튜디오에 
 
-#### 3. Used Languages&Tools <br>
+- Position/Role : 개발자/ AI가 분리수거를 하기 위한 쓰레기 판별할 수 있는 이미지 모델을 Teachable Machine 활용하여 만듦.
+프로젝트를 위한 데이터 수집 및 준비 학습된 모델을 안드로이드 스튜디오에 
+- 🏆장려상
+
+#### Used Languages&Tools <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
 
 
