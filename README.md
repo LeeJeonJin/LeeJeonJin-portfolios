@@ -5,9 +5,11 @@
 
 #### 🏆예선 탈락
 
-### 1. Position/Role
+### 1. Duration 7/1~ 9/7
 
-### 2. Used Languages&Tools <br>
+### 2. Position/Role 
+
+### 3. Used Languages&Tools <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 
 
