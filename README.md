@@ -10,9 +10,9 @@
 머신러닝의 회귀 기법 중 모델링한 결과 R2 Score가 높게 나온 LGBM를 선택하여 .csv 파일로 결과를 캐글에 제출하였습니다. 캐글에 등록된 점수는 대여량을 예측하는 모델의 정확성을 알려주는
 #### 🏆예선 탈락
 
-### Duration 10/2
+- **Duration** 10/2
 
-### Position/Role : LGBM 모델링 담당: max_depth, num_leaves, min_child_samples와 같은 하이퍼파라미터들을 LGBM에서도 동일하게 조절하여 모델의 복잡성을 제어하며 모델링
+- **Position/Role** : LGBM 모델링 담당/ max_depth, num_leaves, min_child_samples와 같은 하이퍼파라미터들을 LGBM에서도 동일하게 조절하여 모델의 복잡성을 제어하며 모델링
 
 ### Used Languages&Tools <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
