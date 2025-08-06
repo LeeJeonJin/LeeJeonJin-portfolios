@@ -5,15 +5,16 @@
 2021 데이터 크리에이터 캠프는 빅데이터 분석 및 활용에 관심 있는 고등학생 및 대학(원)생을 대상으로 한 대회로, 데이터 분석 실습과 멘토링을 통해 데이터 기반 문제 해결 능력을 강화하는 프로그램입니다. 서울시 공공자전거 "따릉이"의 대여량 수요 부족 문제를 해소하기 위해 날씨와 따릉이 이용량 정보를 활용하여 머신러닝의 회귀 기법으로 따릉이 대여량을 예측하는 해커톤을 진행하였습니다. <br>
 
 > ### 테크노피아
-팀 테크노피아는 서울시 공공자전거 "따릉이"의 대여량 수요 부족 문제를 해결하기 위해 .ipynb 초기 세팅부터 전처리 과정을 거쳐 데이터를 정리하였습니다. 데이터 처리 후 효율성을 위해 전처리 단계를 함수화하여 다시 재사용합니다. 모델링 기법에 들어가기 전 날짜를 제뢰한 값을 X로 두고, 예측할 시간대별 따릉이 대여수는 y로 정하여 훈련과 검증 데이터를 분리할 코드를 작성합니다. 결과는 이번 자전거 이용량 예측 대회의 평가 지표는 R2 Score입니다. 이 지표를 간단하게 평가하는 방법은 sklearn 라이브러리의 metrics를 사용합니다.
+팀 테크노피아는 서울시 공공자전거 "따릉이"의 대여량 수요 부족 문제를 해결하기 위해 
+제공된 데이터를 전처리 과정을 거쳐 데이터를 정리하였습니다. 데이터 처리 후 효율성을 위해 전처리 단계를 함수화하여 다시 재사용했습니다. 모델링 기법에 들어가기 전 날짜를 제외한 값을 X로 두고, 예측할 시간대별 따릉이 대여수를 y로 정하여 훈련과 검증 데이터를 분리합니. 결과는 이번 자전거 이용량 예측 대회의 평가 지표는 R2 Score입니다. 이 지표를 간단하게 평가하는 방법은 sklearn 라이브러리의 metrics를 사용합니다.
 머신러닝의 회귀 기법 중 모델링한 결과 R2 Score가 높게 나온 LGBM를 선택하여 .csv 파일로 결과를 캐글에 제출하였습니다. 캐글에 등록된 점수는 대여량을 예측하는 모델의 정확성을 알려주는
 #### 🏆예선 탈락
 
-### 1. Duration 10/2
+### Duration 10/2
 
-### 2. Position/Role 
+### Position/Role : LGBM 모델링 담당: max_depth, num_leaves, min_child_samples와 같은 하이퍼파라미터들을 LGBM에서도 동일하게 조절하여 모델의 복잡성을 제어하며 모델링
 
-### 3. Used Languages&Tools <br>
+### Used Languages&Tools <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 
 <br>
