@@ -17,8 +17,8 @@
 >| 항목             | 내용                                                               |
 >| -------------- | ---------------------------------------------------------------- |
 >| **⏱ 기간**         | 2021.10.02                                      |
->| **👩‍💻 역할(4명)**        | LGBM 모델링 담당, LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지하고, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정                                         |
->| **🏅 수상**        | 예선 탈락                       |
+>| **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정                                         |
+>| **🏆 수상**        | 예선 탈락                       |
 >| **🛠 사용 툴/기술** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> |
 
 >> **🏆예선 탈락**
