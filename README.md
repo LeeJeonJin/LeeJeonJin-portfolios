@@ -17,7 +17,7 @@
 >|   항목             | 내용                                                               |
 >| -------------- | ---------------------------------------------------------------- |
 >|  **⏱ 기간**         | 2021.10.02                                      |
->|  **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정                                         |
+>|  **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정.                                         |
 >| **🛠 사용 툴/기술** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> |
 
 <br>
@@ -40,7 +40,7 @@
 >|   항목             | 내용                                                               |
 >| -------------- | ---------------------------------------------------------------- |
 >|  **⏱ 기간**         | 7/1~ 9/7 (해커톤 8/12~8/13)                                      |
->|  **👩‍💻 역할**        | 개발자/ AI가 분리수거를 도와주기 위해 쓰레기를 판별할 수 있도록 이미지 모델을 만들기 위해 데이터 수집. Teachable Machine 통해 클래스를 생성하고 이미지를 학습 시킴. 개발한 모델를 배포하기 위한 프레임워크로 어플리케이션 제작. 완성된 어플리케이션에 모델을 연동하여 배포 및 테스트                                        |
+>|  **👩‍💻 역할**        | 개발자/ AI가 분리수거를 도와주기 위해 쓰레기를 판별할 수 있도록 이미지 모델을 만들기 위해 데이터 수집. Teachable Machine 통해 클래스를 생성하고 이미지를 학습 시킴. 개발한 모델를 배포하기 위한 프레임워크로 어플리케이션 제작. 완성된 어플리케이션에 모델을 연동하여 배포 및 테스트 진행.                                       |
 >|  **🏆 수상**        | 장려상                      |
 >| **🛠 사용 툴/기술** | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> |
 
