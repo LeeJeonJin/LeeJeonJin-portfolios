@@ -1,5 +1,5 @@
-# 이전진
-
+# [데이터 엔지니어] 이전진
+<br>
 
 ## 🔵한국지능정보사회진흥원(NIA) 2021 데이터 크리에이터 캠프
 2021 데이터 크리에이터 캠프는 빅데이터 분석 및 활용에 관심 있는 고등학생 및 대학(원)생을 대상으로 한 대회로, 데이터 분석 실습과 멘토링을 통해 데이터 기반 문제 해결 능력을 강화하는 프로그램입니다. 서울시 공공자전거 "따릉이"의 대여량 수요 부족 문제를 해소하기 위해 날씨와 따릉이 이용량 정보를 활용하여 머신러닝의 회귀 기법으로 따릉이 대여량을 예측하는 해커톤을 진행하였습니다. <br>
@@ -28,7 +28,7 @@
 
 > ### WiseDragon - AI 기반 분리수거 어플리케이션
 > **`[프로젝트 개요]`** <br>
-> - 팀 와이즈드래곤은 ESG 분야별 이슈 중 환경을 선택하여 AI를 활용한 어플리케이션을 기획
+> ESG 분야별 이슈 중 환경을 선택하여 AI를 활용한 어플리케이션을 기획
 >
 > **`[주요 수행 내용]`**
 > - 프로젝트와 가장 잘 맞는 SDG를 나열하며 기획서에 
@@ -47,7 +47,6 @@
 >>
 >> **Position/Role** : 개발자/ AI가 분리수거를 하기 위한 쓰레기 판별할 수 있는 이미지 모델을 Teachable Machine 활용하여 만듦.
 >>  프로젝트를 위한 데이터 수집 및 준비 학습된 모델을 안드로이드 스튜디오에 
->>
 >>
 >> **Used Languages&Tools** <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
