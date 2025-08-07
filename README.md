@@ -14,22 +14,13 @@
 > - 머신러닝의 회귀 기법(선형회귀, LGBM, 신경망, 앙상블) 중 모델링한 결과 R2 Score가 높게 나온 LGBM를 선택
 > - 캐글에 등록된 점수는 대여량을 예측하는 모델의 정확성을 알려주는 0.56847 6개 팀 중 4위를 함
 >
->| 항목             | 내용                                                               |
+>|   항목             | 내용                                                               |
 >| -------------- | ---------------------------------------------------------------- |
->| **⏱ 기간**         | 2021.10.02                                      |
->| **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정                                         |
->| **🏆 수상**        | 예선 탈락                       |
+>|  **⏱ 기간**         | 2021.10.02                                      |
+>|  **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정                                         |
+>|  **🏆 수상**        | 예선 탈락                       |
 >| **🛠 사용 툴/기술** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> |
 
->> **🏆예선 탈락**
->> 
->> **Duration** 10/2
->>
->> **Position/Role** : LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지하고, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정함
->>
->> **Used Languages&Tools** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
->
 <br>
 
 ## 🟢인텔코리&한국생산성본부 2024 ESG 기반 AI 융합 기획 프로젝트
