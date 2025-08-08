@@ -42,8 +42,8 @@
 >| -------------- | ---------------------------------------------------------------- |
 >|  **⏱ 기간**          | 7/1~ 9/7 (해커톤 8/12~8/13)                                      |
 >|  **🏆 수상**         | 장려상                          |
->|  **🧑‍🧑‍🧒‍🧒 인원**         | 4명(기획자 2명/ 개발자 2명)                                    |
->|  **👩‍💻 역할**         | 개발자/ AI가 분리수거를 도와주기 위해 쓰레기를 판별할 수 있도록 이미지 모델을 만들기 위해 데이터 수집. Teachable Machine 통해 클래스를 생성하고 이미지를 학습 시킴. 개발한 모델를 배포하기 위한 프레임워크로 [어플리케이션](https://youtu.be/cOQsgtgxMFc?si=zv01fc-dYX015vuT) 제작. 완성된 어플리케이션에 모델을 [연동](https://youtu.be/jhGm4KDafKU?si=kb7WosCJ1hZMZNGE)하여 배포 및 테스트 진행. <br>                                         |
+>|  **🧑‍🧑‍🧒‍🧒 인원**         | 4명(기획자 2명/ 개발자 2명) <br>                                   |
+>|  **👩‍💻 역할**         | 개발자/ AI가 분리수거를 도와주기 위해 쓰레기를 판별할 수 있도록 이미지 모델을 만들기 위해 데이터 수집. Teachable Machine 통해 클래스를 생성하고 이미지를 학습 시킴. 개발한 모델를 배포하기 위한 프레임워크로 [어플리케이션](https://youtu.be/cOQsgtgxMFc?si=zv01fc-dYX015vuT) 제작. 완성된 어플리케이션에 모델을 [연동](https://youtu.be/jhGm4KDafKU?si=kb7WosCJ1hZMZNGE)하여 배포 및 테스트 진행.                                          |
 >| **🛠 사용/ 툴/기술**  | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> |
 
 
