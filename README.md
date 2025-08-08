@@ -44,6 +44,7 @@
 >|  **🧑‍🧑‍🧒‍🧒 인원**         | 4명                                                |
 >|  **👩‍💻 역할**        | LGBM 모델링 담당/ LGBM 모델의 하이퍼파라미터 값들 조절하여 과적합을 방지, 모델이 데이터를 더 잘 학습하고 일반화 성능을 높일 수 있도록 설정.                                         |
 >| **🛠 사용 툴/기술** | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> |
+
 >|   항목             | 내용                                                               |
 >| -------------- | ---------------------------------------------------------------- |
 >|  **⏱ 기간**         | 7/1~ 9/7 (해커톤 8/12~8/13)                                      |
